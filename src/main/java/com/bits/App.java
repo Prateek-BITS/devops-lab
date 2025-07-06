@@ -2,6 +2,6 @@ package com.bits;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from DevOps Lab!");
+        System.out.println("Updated message for Jenkins CI!");
     }
 }
